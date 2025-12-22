@@ -2,10 +2,10 @@
 
 Python & MySQL–Based Independent Project
 
-Author: Jaanvi Aggarwal
-Country: Nepal
-Academic Interest: Economics & Finance
-Tools: Python 3.8+, MySQL 8.0+, VS Code
+Author: Jaanvi Aggarwal,
+Country: Nepal,
+Academic Interest: Economics & Finance,
+Tools: Python 3.8+, MySQL 8.0+, VS Code.
 
 📌 Project Overview
 
@@ -15,13 +15,9 @@ It is designed to simulate, in a simplified but realistic way, how financial ana
 The system allows users to:
 
 Create and store company records
-
 Input financial statement data for multiple periods
-
 Maintain a structured relational database
-
 Calculate key financial ratios related to profitability, liquidity, and growth
-
 Compare companies operating in very different economic contexts
 
 This project was built to deepen my understanding of applied finance, databases, and analytical reasoning beyond textbook theory.
@@ -31,11 +27,8 @@ This project was built to deepen my understanding of applied finance, databases,
 I wanted to explore finance not just conceptually, but computationally.
 
 Rather than relying on pre-built tools, I chose to:
-
 Design the database schema myself
-
 Write the Python logic from scratch
-
 Manually test the system using real-world-style financial data
 
 The goal was learning through building.
@@ -43,16 +36,10 @@ The goal was learning through building.
 ⚙️ Technology Stack
 
 Programming Language: Python 3.8+
-
 Database: MySQL 8.0+
-
 Connector: mysql-connector-python
-
-Modules Used:
-mysql.connector, csv, datetime
-
+Modules Used:mysql.connector, csv, datetime
 Development Environment: VS Code
-
 Platform: GitHub
 
 🗄️ Database Structure
@@ -64,9 +51,7 @@ The system uses a relational database named finance_db with two main tables:
 Stores basic company information such as:
 
 Company ID
-
 Company Name
-
 Industry
 
 2️⃣ Financial Statements Table
@@ -74,13 +59,9 @@ Industry
 Stores period-wise financial data including:
 
 Revenue
-
 Net Income
-
 Assets
-
 Liabilities
-
 Reporting Period
 
 This structure allows one-to-many relationships between companies and their financial records.
@@ -88,13 +69,9 @@ This structure allows one-to-many relationships between companies and their fina
 🔄 System Workflow
 
 Financial data is entered manually or imported via CSV
-
 Python processes and validates the input
-
 Data is stored in a MySQL relational database
-
 Stored data is queried to compute financial ratios
-
 Results are displayed through a menu-driven interface
 
 This mirrors the logical flow used in basic financial analysis pipelines.
@@ -106,17 +83,13 @@ To test the system meaningfully, I applied it to two contrasting case studies:
 🔹 Nepali Hydropower Startup
 
 Capital-intensive infrastructure business
-
 Focus on asset structure and long-term liabilities
-
 Emphasis on stable profitability and sustainability
 
 🔹 Indian Tech Unicorn
 
 High-growth, scalable business model
-
 Focus on margins and revenue growth
-
 Used to study efficiency at scale
 
 These two cases allowed me to compare financial behavior across very different economic and industry contexts.
@@ -124,11 +97,8 @@ These two cases allowed me to compare financial behavior across very different e
 📊 Key Metrics Calculated
 
 Net Profit Margin
-
 Assets-to-Liabilities Ratio
-
 Revenue Growth Rate
-
 Net Income Growth
 
 The calculations are intentionally simplified but conceptually aligned with real-world financial analysis.
@@ -148,11 +118,8 @@ project_report_Jaanvi_Aggarwal.pdf
 This project is educational and has known limitations:
 
 No duplicate company validation
-
 Limited input error handling
-
 No enforced foreign-key constraints
-
 No automated data sourcing
 
 These limitations were intentional to keep the system transparent and beginner-friendly.
@@ -160,13 +127,9 @@ These limitations were intentional to keep the system transparent and beginner-f
 🚀 Future Improvements
 
 Planned enhancements include:
-
 Stronger input validation
-
 Data visualization (charts & trends)
-
 API-based financial data import
-
 Expanded multi-period and valuation analysis
 
 🎯 Final Note
