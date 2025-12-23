@@ -114,11 +114,14 @@ This project taught me that analytical rigor comes from consistency and interpre
 - One-page project summary
 - Full project report
 - Comparative case study memo
-- Reflective note: “Ratios Are Signals”
+- Reflective note: “Ratios Are Signals” (In Medium)
+   link: https://medium.com/@jaanviaggarwal2007/why-financial-ratios-are-signals-not-answers-lessons-from-a-hydropower-startup-and-a-tech-unicorn-8e188dfdf6b4 
+  
 
 # Author
 
 - Jaanvi Aggarwal
 - Independent student project exploring finance through systems, data, and context.
+
 
 
