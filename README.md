@@ -89,6 +89,14 @@ A short comparative analysis memo applying this system to both case studies is i
 
 Outputs are displayed clearly for each period to support comparison and interpretation.
 
+# Interpretation Matters: What This Project Taught Me
+
+While building and testing this system, I learned that financial ratios are not conclusions—they are signals that only gain meaning when interpreted within context. Applying the same analytical engine to two contrasting case studies—a Nepali hydropower startup and an Indian technology unicorn—made this clear.
+
+Using identical code and metric definitions across both companies produced similar-looking ratios that pointed to very different realities. In the hydropower startup, lower margins reflected capital intensity and long gestation periods; in the tech unicorn, similar figures signaled scaling inefficiencies. What appeared “weak” in one context was structural in another.
+
+This forced a shift in how I think about finance: from treating metrics as answers to treating them as prompts. The value of analysis lies not in calculating ratios, but in asking why they look the way they do—and what constraints, incentives, and business models shape them. This perspective now informs how I approach economics and finance more broadly, as disciplines of interpretation rather than memorization.
+
 # Limitations
 
 - No duplicate company prevention
@@ -112,4 +120,5 @@ This project taught me that analytical rigor comes from consistency and interpre
 
 - Jaanvi Aggarwal
 - Independent student project exploring finance through systems, data, and context.
+
 
