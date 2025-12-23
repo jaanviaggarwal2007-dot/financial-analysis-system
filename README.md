@@ -111,4 +111,5 @@ This project taught me that analytical rigor comes from consistency and interpre
 # Author
 
 - Jaanvi Aggarwal
-Independent student project exploring finance through systems, data, and context.
+- Independent student project exploring finance through systems, data, and context.
+
